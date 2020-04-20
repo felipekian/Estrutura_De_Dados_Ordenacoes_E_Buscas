@@ -61,4 +61,4 @@ Já o algoritmo de **Busca Binária** mostrou-se muito mais eficiente visto que 
   ## Resultados _Radix Sort_
 ![](Imagens_markdown/resultados_radix_sort.png)
 
-#OBRIGADO PELA ATENÇÂO.
+# OBRIGADO PELA ATENÇÂO.
