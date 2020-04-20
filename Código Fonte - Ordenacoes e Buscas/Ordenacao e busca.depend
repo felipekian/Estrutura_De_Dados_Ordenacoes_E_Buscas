@@ -1,0 +1,256 @@
+# depslib dependency file v1.0
+1486307134 source:c:\users\felipe derkian\desktop\trabalho 2 - est. dados\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Implementacao.h"
+
+1486308743 c:\users\felipe derkian\desktop\trabalho 2 - est. dados\implementação\ordenacao e busca\implementacao.h
+
+1486509695 source:c:\users\felipe\desktop\trabalho 2 - est. dados\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+
+1486491773 c:\users\felipe\desktop\trabalho 2 - est. dados\implementação\ordenacao e busca\implementacao.h
+
+1486696834 source:c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1486754854 c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\implementacao.h
+
+1486490522 c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\teste.h
+
+1486749149 c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\gerararquivo.h
+
+1486753448 c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\buscadores.h
+
+1486752697 c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\ordenadores.h
+
+1486513703 c:\users\felipe\desktop\trabalho 2 - est. dados\implementação\ordenacao e busca\gerararquivo.h
+
+1486513765 c:\users\felipe\desktop\trabalho 2 - est. dados\implementação\ordenacao e busca\buscadores.h
+
+1486490881 c:\users\felipe\desktop\trabalho 2 - est. dados\implementação\ordenacao e busca\ordenadores.h
+
+1486754104 c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\imprimir_arquivos.h
+
+1486696834 source:c:\users\felipe\desktop\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1486697870 c:\users\felipe\desktop\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\implementacao.h
+
+1486685189 c:\users\felipe\desktop\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\gerararquivo.h
+
+1486685059 c:\users\felipe\desktop\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\buscadores.h
+
+1486696394 c:\users\felipe\desktop\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\ordenadores.h
+
+1486690150 c:\users\felipe\desktop\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\imprimir_arquivos.h
+
+1486686045 c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\salvar_resultado.h
+
+1486691773 c:\users\felipe\desktop\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\salvar_resultado.h
+
+1486698064 c:\users\felipe\desktop\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\finishh.h
+
+1486696834 source:d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1486697870 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\implementacao.h
+
+1486698638 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\gerararquivo.h
+
+1486685059 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\buscadores.h
+
+1486696394 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\ordenadores.h
+
+1486690150 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\imprimir_arquivos.h
+
+1486698064 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 - estrutura de dados\implementação\ordenacao e busca\finishh.h
+
+1486754104 c:\users\felipe derkian\desktop\trabalho 2 - est. dados - backup\implementação\ordenacao e busca\finishh.h
+
+1486847501 source:d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 -  ordenacao e busca -estrutura de dados\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1486847987 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 -  ordenacao e busca -estrutura de dados\implementação\ordenacao e busca\implementacao.h
+
+1486749149 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 -  ordenacao e busca -estrutura de dados\implementação\ordenacao e busca\gerararquivo.h
+
+1486847970 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 -  ordenacao e busca -estrutura de dados\implementação\ordenacao e busca\buscadores.h
+
+1486752697 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 -  ordenacao e busca -estrutura de dados\implementação\ordenacao e busca\ordenadores.h
+
+1486847970 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 -  ordenacao e busca -estrutura de dados\implementação\ordenacao e busca\imprimir_arquivos.h
+
+1486754104 d:\meus documentos\faculdade -felipe\5° semestre\estrutura de dados i\trabalhos e exercício\trabalho 2 -  ordenacao e busca -estrutura de dados\implementação\ordenacao e busca\finishh.h
+
+1486847501 source:c:\users\felipe\dropbox\trabalho 2 - est. dados\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1487005044 c:\users\felipe\dropbox\trabalho 2 - est. dados\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\implementacao.h
+
+1487003311 c:\users\felipe\dropbox\trabalho 2 - est. dados\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\gerararquivo.h
+
+1487004202 c:\users\felipe\dropbox\trabalho 2 - est. dados\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\buscadores.h
+
+1486752697 c:\users\felipe\dropbox\trabalho 2 - est. dados\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\ordenadores.h
+
+1487004744 c:\users\felipe\dropbox\trabalho 2 - est. dados\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\imprimir_arquivos.h
+
+1486754104 c:\users\felipe\dropbox\trabalho 2 - est. dados\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\finishh.h
+
+1486847501 source:c:\users\felipe derkian\desktop\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1487005044 c:\users\felipe derkian\desktop\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\implementacao.h
+
+1487003311 c:\users\felipe derkian\desktop\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\gerararquivo.h
+
+1487004202 c:\users\felipe derkian\desktop\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\buscadores.h
+
+1486752697 c:\users\felipe derkian\desktop\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\ordenadores.h
+
+1487161697 c:\users\felipe derkian\desktop\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\imprimir_arquivos.h
+
+1486754104 c:\users\felipe derkian\desktop\estrutura de dados - trabalho 2 - ordenação e busca\software - ordenacao e busca\implementação\ordenacao e busca\finishh.h
+
+1487154556 source:c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\software - ordenacao e busca\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1486997844 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\software - ordenacao e busca\implementação\ordenacao e busca\implementacao.h
+
+1486996111 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\software - ordenacao e busca\implementação\ordenacao e busca\gerararquivo.h
+
+1486997002 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\software - ordenacao e busca\implementação\ordenacao e busca\buscadores.h
+
+1487506493 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\software - ordenacao e busca\implementação\ordenacao e busca\ordenadores.h
+
+1487154497 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\software - ordenacao e busca\implementação\ordenacao e busca\imprimir_arquivos.h
+
+1486746904 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\software - ordenacao e busca\implementação\ordenacao e busca\finishh.h
+
+1487154556 source:c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\implementação\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1486997844 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\implementação\ordenacao e busca\implementacao.h
+
+1486996111 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\implementação\ordenacao e busca\gerararquivo.h
+
+1486997002 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\implementação\ordenacao e busca\buscadores.h
+
+1487507676 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\implementação\ordenacao e busca\ordenadores.h
+
+1487154497 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\implementação\ordenacao e busca\imprimir_arquivos.h
+
+1486746904 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\implementação\ordenacao e busca\finishh.h
+
+1487154556 source:c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\ordenacao e busca\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+	"Implementacao.h"
+	"GerarArquivo.h"
+	"Buscadores.h"
+	"Ordenadores.h"
+	"imprimir_arquivos.h"
+	"finishh.h"
+
+1486997844 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\ordenacao e busca\implementacao.h
+
+1486996111 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\ordenacao e busca\gerararquivo.h
+
+1486997002 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\ordenacao e busca\buscadores.h
+
+1487509362 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\ordenacao e busca\ordenadores.h
+
+1487154497 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\ordenacao e busca\imprimir_arquivos.h
+
+1486746904 c:\users\felipe\desktop\ordenacao e busca - estrutura de dados\código software - ordenacao e busca\ordenacao e busca\finishh.h
+
