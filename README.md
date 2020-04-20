@@ -15,14 +15,13 @@ Este Trabalho tem por objetivo realizar à <b>implementação em linguagem C</b>
 2) Busca Binária
 
 
-## Resultados Observados:
+## RESULTADOS OBSERVADOS:
 
 Com os algoritmos levados ao extremo com ordenação de vetores com até **10 mil posições** gerando os valores aleatoriamente em arquivo e depois enviados para ordenação observou-se que os algoritmos **O^2** são muito lentos para grandes quantidades de dados enquanto que os com complexidade **nlogn** como Merge Sort são praticamente instantâneos em sua execução.
 
 Já o algoritmo de **Busca Binária** mostrou-se muito mais eficiente visto que no pior caso sua complexidade é **logn** enquanto a busca sequencial no pior caso tem complexidade **n**.
 
-## Conclusão
-Este estudo mostrou que algoritmos eficientes poupam tempo de processamento e recursos além de em casos reais maximizar o processo em questão.
+---
 
 # IMAGENS DO PROGRAMA EM FUNCIONAMENTO
 
